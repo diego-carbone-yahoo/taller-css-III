@@ -1,71 +1,51 @@
 @media (max-width: 480px) {
 
     aside form {
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background: #666;
-        padding: 20px;
-        padding-top: 60px;
-        display: none;
-        z-index: 10;
+        
     }
 
     aside form label, aside form legend {
-        font-size: 20px;
-        color: #fff;
+        
     }
 
     .desktop {
-        display: none;
+        
     }
 
     footer {
-        text-align: center;
+        
     }
     
     header>.wrapper>a.mobile {
-        display: block;
-        text-align: center;
+        
     }
 
     header nav {
-        position: absolute;
-        right: 0px;
-        top: 41px;
-        background: rgba(131, 151, 136, 1);
-        z-index: 3;
+        
     }
 
     header nav form {
-        display: none;
+        
     }
 
     header nav ul {
-        display: none;
+        
     }
 
     header nav ul li {
-        display: block;
-        text-align: center;
+        
     }
 
     main, aside {
-        width: 90%;
-        margin: 0 auto;
-        display: block;
-        float: none;
+        
     }
 
     .mobile {
-        display: block;
+        
     }
 
     section {
-        float: none;
-        width: 100%;
+        
     }
 
 }
