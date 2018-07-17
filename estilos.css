@@ -183,7 +183,7 @@ header nav form input[type="submit"], header nav form button[type="submit"] {
     background-color: transparent;
     border: none;
     padding: 3px 8px;
-    background-image: url("../assets/lupa.png");
+    background-image: url("assets/lupa.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
     width: 32px;
